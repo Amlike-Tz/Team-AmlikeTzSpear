@@ -1,4 +1,6 @@
 phonenumbers
-colorama
-pyshorteners
 requests
+random
+figlet
+colorama
+lolcat
