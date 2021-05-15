@@ -417,3 +417,5 @@ for i in range(100):
          time.sleep(4)
          print("")
          sys.exit("")
+         os.system("exit")
+         sys.exit(1)
