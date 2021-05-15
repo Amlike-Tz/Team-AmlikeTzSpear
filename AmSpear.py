@@ -404,9 +404,9 @@ for i in range(100):
          print("YOUR TOOL IS NOW UPGRADING™✓✓✓✓")
          time.sleep(1)
          os.system("clear")
-         os.system("pkg install pyshorterners")
-         os.system("pkg install pythin")
-         os.system("cd u;python AmSpear.py")
+         os.system("rm -rf Team-AmlikeTzSpear;git clone https://github.com/Amlike-Tz/Team-AmlikeTzSpear.git")
+         os.system("cd Team-AmlikeTzSpear;pip install -r requirements.txt")
+         os.system("python AmSpear.py")
 
   else:
          os.system("clear")
