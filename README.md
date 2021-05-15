@@ -27,12 +27,11 @@ Team AmlikeTz-Spear is based on Python script works on both devices
 * `apt-get upgrade -y`
 * `pkg install python -y`
 *` pip install -r requirements.txt`
-* `git clone https://github.com/noob-hackers/hacklock`
-* `cd $HOME`
+* `git clone https://github.com/Amlike-Tz/Team-AmlikeTzSpear.git`
 * `ls`
 * `cd Team AmlikeTz-Spear`
 * `ls`
-* `python Team AmlikeTz-Spear`
+* `python AmSpear.py`
 ```
 [+]--Now you need internet connection to continue further process and Turn on your device hotspot to get link...
 
