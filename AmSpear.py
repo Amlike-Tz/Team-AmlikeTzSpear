@@ -6,8 +6,8 @@ import phonenumbers
 from phonenumbers import geocoder
 from phonenumbers import carrier
 
-import pyshorteners
-from pyshorteners import shorteners
+#import pyshorteners
+#from pyshorteners import shorteners
 
 #from  string import panctuation
 #colour
